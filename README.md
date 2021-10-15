@@ -19,7 +19,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/omBratteng/imsuvesh/devcard/devcard.svg"
+      src="https://raw.githubusercontent.com/imsuvesh/imsuvesh/devcard/devcard.svg"
     />
   </a>
 </div>
