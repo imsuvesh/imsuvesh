@@ -28,8 +28,9 @@
 
 ## I am Suvesh Kumar
 
-- Jr. FSE at [Cognizant](https://www.cognizant.com/)
+- FSE at [Cognizant](https://www.cognizant.com/)
 - Loves a freshly brewed cup of coffee
+- Goal - Get out of The Matrix
 
 ![Metrics](https://raw.githubusercontent.com/imsuvesh/imsuvesh/github-metrics/github-metrics.svg)
 <!--
